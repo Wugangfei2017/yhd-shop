@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/yhd-shop-parent.iml" filepath="$PROJECT_DIR$/yhd-shop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yhd-shop-spring/yhd-shop-spring.iml" filepath="$PROJECT_DIR$/yhd-shop-spring/yhd-shop-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yhd-shop-zk/yhd-shop-zk.iml" filepath="$PROJECT_DIR$/yhd-shop-zk/yhd-shop-zk.iml" />
     </modules>
   </component>
 </project>
